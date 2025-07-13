@@ -1,0 +1,6 @@
+// Synced on 2023-10-05 16:55:06 UTC
+impl Solution {
+    pub fn fraction_to_decimal(numerator: i32, denominator: i32) -> String {
+        
+    }
+}

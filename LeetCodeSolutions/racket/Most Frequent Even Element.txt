@@ -1,0 +1,4 @@
+// Synced on 2023-10-05 15:41:31 UTC
+(define/contract (most-frequent-even nums)
+  (-> (listof exact-integer?) exact-integer?)
+  )

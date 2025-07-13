@@ -1,0 +1,12 @@
+// Synced on 2023-10-03 13:52:06 UTC
+class Solution {
+
+    /**
+     * @param Integer[] $nums
+     * @param Integer $target
+     * @return Integer
+     */
+    function countPairs($nums, $target) {
+        
+    }
+}

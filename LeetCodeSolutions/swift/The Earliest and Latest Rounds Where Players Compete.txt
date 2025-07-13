@@ -1,0 +1,6 @@
+// Synced on 2025-07-12 15:55:44 UTC
+class Solution {
+    func earliestAndLatest(_ n: Int, _ firstPlayer: Int, _ secondPlayer: Int) -> [Int] {
+        
+    }
+}

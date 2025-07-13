@@ -1,0 +1,7 @@
+// Synced on 2025-07-12 15:32:41 UTC
+# @param {Integer[]} nums
+# @param {Integer} k
+# @return {Boolean}
+def contains_nearby_duplicate(nums, k)
+    
+end

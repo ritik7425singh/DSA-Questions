@@ -1,0 +1,4 @@
+// Synced on 2025-07-12 15:55:44 UTC
+function earliestAndLatest(n: number, firstPlayer: number, secondPlayer: number): number[] {
+    
+};

@@ -1,0 +1,6 @@
+// Synced on 2023-10-06 15:02:17 UTC
+object Solution {
+    def decodeString(s: String): String = {
+        
+    }
+}

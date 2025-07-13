@@ -1,0 +1,6 @@
+// Synced on 2025-07-12 15:55:44 UTC
+public class Solution {
+    public int[] EarliestAndLatest(int n, int firstPlayer, int secondPlayer) {
+        
+    }
+}

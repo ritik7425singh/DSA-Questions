@@ -1,0 +1,7 @@
+// Synced on 2025-07-13 09:43:09 UTC
+# @param {String} s
+# @param {Integer} k
+# @return {Character}
+def process_str(s, k)
+    
+end

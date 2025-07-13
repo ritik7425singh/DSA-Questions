@@ -1,0 +1,7 @@
+// Synced on 2025-07-13 09:05:51 UTC
+defmodule Solution do
+  @spec process_str(s :: String.t) :: String.t
+  def process_str(s) do
+    
+  end
+end

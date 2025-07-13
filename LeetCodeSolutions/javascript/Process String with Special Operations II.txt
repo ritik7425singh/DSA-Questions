@@ -1,0 +1,9 @@
+// Synced on 2025-07-13 09:43:09 UTC
+/**
+ * @param {string} s
+ * @param {number} k
+ * @return {character}
+ */
+var processStr = function(s, k) {
+    
+};

@@ -1,0 +1,4 @@
+// Synced on 2023-10-06 14:56:54 UTC
+-spec generate_parenthesis(N :: integer()) -> [unicode:unicode_binary()].
+generate_parenthesis(N) ->
+  .

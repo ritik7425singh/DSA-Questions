@@ -1,0 +1,6 @@
+// Synced on 2023-10-05 15:41:31 UTC
+# @param {Integer[]} nums
+# @return {Integer}
+def most_frequent_even(nums)
+    
+end

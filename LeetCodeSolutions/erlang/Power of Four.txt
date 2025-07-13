@@ -1,0 +1,4 @@
+// Synced on 2023-10-23 15:11:34 UTC
+-spec is_power_of_four(N :: integer()) -> boolean().
+is_power_of_four(N) ->
+  .

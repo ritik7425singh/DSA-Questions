@@ -1,0 +1,4 @@
+// Synced on 2023-10-06 15:02:17 UTC
+-spec decode_string(S :: unicode:unicode_binary()) -> unicode:unicode_binary().
+decode_string(S) ->
+  .

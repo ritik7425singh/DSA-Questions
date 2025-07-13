@@ -1,0 +1,6 @@
+// Synced on 2023-10-03 13:52:06 UTC
+impl Solution {
+    pub fn count_pairs(nums: Vec<i32>, target: i32) -> i32 {
+        
+    }
+}

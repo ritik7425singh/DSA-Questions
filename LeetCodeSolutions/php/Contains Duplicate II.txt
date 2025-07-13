@@ -1,0 +1,12 @@
+// Synced on 2025-07-12 15:32:41 UTC
+class Solution {
+
+    /**
+     * @param Integer[] $nums
+     * @param Integer $k
+     * @return Boolean
+     */
+    function containsNearbyDuplicate($nums, $k) {
+        
+    }
+}

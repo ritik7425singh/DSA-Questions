@@ -1,0 +1,6 @@
+// Synced on 2023-10-23 15:11:34 UTC
+object Solution {
+    def isPowerOfFour(n: Int): Boolean = {
+        
+    }
+}

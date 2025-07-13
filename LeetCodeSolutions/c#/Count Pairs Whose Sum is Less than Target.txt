@@ -1,0 +1,6 @@
+// Synced on 2023-10-03 13:52:06 UTC
+public class Solution {
+    public int CountPairs(IList<int> nums, int target) {
+        
+    }
+}

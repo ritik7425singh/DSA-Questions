@@ -1,0 +1,7 @@
+// Synced on 2025-07-12 15:55:44 UTC
+defmodule Solution do
+  @spec earliest_and_latest(n :: integer, first_player :: integer, second_player :: integer) :: [integer]
+  def earliest_and_latest(n, first_player, second_player) do
+    
+  end
+end

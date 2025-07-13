@@ -1,0 +1,7 @@
+// Synced on 2023-10-06 14:56:54 UTC
+defmodule Solution do
+  @spec generate_parenthesis(n :: integer) :: [String.t]
+  def generate_parenthesis(n) do
+    
+  end
+end

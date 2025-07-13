@@ -1,0 +1,14 @@
+// Synced on 2023-10-15 13:18:31 UTC
+/**
+ * Definition for singly-linked list.
+ * class ListNode {
+ *   int val;
+ *   ListNode? next;
+ *   ListNode([this.val = 0, this.next]);
+ * }
+ */
+class Solution {
+  int numComponents(ListNode? head, List<int> nums) {
+    
+  }
+}

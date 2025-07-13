@@ -1,0 +1,12 @@
+// Synced on 2025-07-13 09:43:09 UTC
+class Solution {
+
+    /**
+     * @param String $s
+     * @param Integer $k
+     * @return String
+     */
+    function processStr($s, $k) {
+        
+    }
+}

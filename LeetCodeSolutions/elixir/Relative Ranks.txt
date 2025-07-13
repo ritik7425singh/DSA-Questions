@@ -1,0 +1,7 @@
+// Synced on 2023-10-06 15:13:33 UTC
+defmodule Solution do
+  @spec find_relative_ranks(score :: [integer]) :: [String.t]
+  def find_relative_ranks(score) do
+    
+  end
+end

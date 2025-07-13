@@ -1,0 +1,11 @@
+// Synced on 2023-10-15 13:18:31 UTC
+/**
+ * Definition for singly-linked list.
+ * type ListNode struct {
+ *     Val int
+ *     Next *ListNode
+ * }
+ */
+func numComponents(head *ListNode, nums []int) int {
+    
+}

@@ -1,0 +1,7 @@
+// Synced on 2023-10-05 14:38:25 UTC
+defmodule Solution do
+  @spec majority_element(nums :: [integer]) :: [integer]
+  def majority_element(nums) do
+    
+  end
+end

@@ -1,0 +1,6 @@
+// Synced on 2025-07-13 09:43:09 UTC
+object Solution {
+    def processStr(s: String, k: Long): Char = {
+        
+    }
+}

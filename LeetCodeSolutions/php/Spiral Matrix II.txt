@@ -1,0 +1,11 @@
+// Synced on 2023-10-07 12:11:21 UTC
+class Solution {
+
+    /**
+     * @param Integer $n
+     * @return Integer[][]
+     */
+    function generateMatrix($n) {
+        
+    }
+}

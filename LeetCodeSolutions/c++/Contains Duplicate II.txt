@@ -1,0 +1,7 @@
+// Synced on 2025-07-12 15:32:41 UTC
+class Solution {
+public:
+    bool containsNearbyDuplicate(vector<int>& nums, int k) {
+        
+    }
+};

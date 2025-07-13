@@ -1,0 +1,9 @@
+// Synced on 2023-10-03 13:52:06 UTC
+/**
+ * @param {number[]} nums
+ * @param {number} target
+ * @return {number}
+ */
+var countPairs = function(nums, target) {
+    
+};

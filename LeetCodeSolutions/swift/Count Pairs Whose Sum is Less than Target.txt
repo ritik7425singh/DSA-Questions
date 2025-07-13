@@ -1,0 +1,6 @@
+// Synced on 2023-10-03 13:52:06 UTC
+class Solution {
+    func countPairs(_ nums: [Int], _ target: Int) -> Int {
+        
+    }
+}

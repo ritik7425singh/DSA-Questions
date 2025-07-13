@@ -1,0 +1,6 @@
+// Synced on 2023-10-07 12:11:21 UTC
+class Solution {
+  List<List<int>> generateMatrix(int n) {
+    
+  }
+}

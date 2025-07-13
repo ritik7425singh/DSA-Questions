@@ -1,0 +1,12 @@
+// Synced on 2025-07-12 13:31:32 UTC
+class Solution {
+
+    /**
+     * @param Integer[] $nums
+     * @param Integer $k
+     * @return Float
+     */
+    function findMaxAverage($nums, $k) {
+        
+    }
+}

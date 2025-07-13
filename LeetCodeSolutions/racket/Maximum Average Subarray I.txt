@@ -1,0 +1,4 @@
+// Synced on 2025-07-12 13:31:32 UTC
+(define/contract (find-max-average nums k)
+  (-> (listof exact-integer?) exact-integer? flonum?)
+  )

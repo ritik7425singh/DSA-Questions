@@ -1,0 +1,4 @@
+// Synced on 2025-07-13 09:43:09 UTC
+-spec process_str(S :: unicode:unicode_binary(), K :: integer()) -> char().
+process_str(S, K) ->
+  .

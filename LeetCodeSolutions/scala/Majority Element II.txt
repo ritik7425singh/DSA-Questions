@@ -1,0 +1,6 @@
+// Synced on 2023-10-05 14:38:25 UTC
+object Solution {
+    def majorityElement(nums: Array[Int]): List[Int] = {
+        
+    }
+}

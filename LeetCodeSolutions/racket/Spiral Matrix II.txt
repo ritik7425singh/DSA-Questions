@@ -1,0 +1,4 @@
+// Synced on 2023-10-07 12:11:21 UTC
+(define/contract (generate-matrix n)
+  (-> exact-integer? (listof (listof exact-integer?)))
+  )

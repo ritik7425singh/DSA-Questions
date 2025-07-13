@@ -1,0 +1,7 @@
+// Synced on 2023-10-03 13:52:06 UTC
+# @param {Integer[]} nums
+# @param {Integer} target
+# @return {Integer}
+def count_pairs(nums, target)
+    
+end

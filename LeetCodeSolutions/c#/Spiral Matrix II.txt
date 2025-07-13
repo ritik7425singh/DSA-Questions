@@ -1,0 +1,6 @@
+// Synced on 2023-10-07 12:11:21 UTC
+public class Solution {
+    public int[][] GenerateMatrix(int n) {
+        
+    }
+}

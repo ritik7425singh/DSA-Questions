@@ -1,0 +1,4 @@
+// Synced on 2023-10-07 12:11:21 UTC
+-spec generate_matrix(N :: integer()) -> [[integer()]].
+generate_matrix(N) ->
+  .

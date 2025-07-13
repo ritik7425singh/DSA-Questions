@@ -1,0 +1,6 @@
+// Synced on 2025-07-12 13:31:32 UTC
+impl Solution {
+    pub fn find_max_average(nums: Vec<i32>, k: i32) -> f64 {
+        
+    }
+}

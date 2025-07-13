@@ -1,0 +1,6 @@
+// Synced on 2023-10-06 14:56:54 UTC
+impl Solution {
+    pub fn generate_parenthesis(n: i32) -> Vec<String> {
+        
+    }
+}

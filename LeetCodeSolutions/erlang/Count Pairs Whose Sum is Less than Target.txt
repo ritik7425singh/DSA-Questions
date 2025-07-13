@@ -1,0 +1,4 @@
+// Synced on 2023-10-03 13:52:06 UTC
+-spec count_pairs(Nums :: [integer()], Target :: integer()) -> integer().
+count_pairs(Nums, Target) ->
+  .

@@ -1,0 +1,4 @@
+// Synced on 2025-07-12 15:55:44 UTC
+-spec earliest_and_latest(N :: integer(), FirstPlayer :: integer(), SecondPlayer :: integer()) -> [integer()].
+earliest_and_latest(N, FirstPlayer, SecondPlayer) ->
+  .

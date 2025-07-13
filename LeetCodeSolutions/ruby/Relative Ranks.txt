@@ -1,0 +1,6 @@
+// Synced on 2023-10-06 15:13:33 UTC
+# @param {Integer[]} score
+# @return {String[]}
+def find_relative_ranks(score)
+    
+end

@@ -1,0 +1,6 @@
+// Synced on 2023-10-23 15:11:34 UTC
+# @param {Integer} n
+# @return {Boolean}
+def is_power_of_four(n)
+    
+end

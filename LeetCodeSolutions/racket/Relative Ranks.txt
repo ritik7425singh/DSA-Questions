@@ -1,0 +1,4 @@
+// Synced on 2023-10-06 15:13:33 UTC
+(define/contract (find-relative-ranks score)
+  (-> (listof exact-integer?) (listof string?))
+  )

@@ -1,0 +1,4 @@
+// Synced on 2025-07-12 15:55:44 UTC
+(define/contract (earliest-and-latest n firstPlayer secondPlayer)
+  (-> exact-integer? exact-integer? exact-integer? (listof exact-integer?))
+  )

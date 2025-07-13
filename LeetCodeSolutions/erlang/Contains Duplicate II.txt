@@ -1,0 +1,4 @@
+// Synced on 2025-07-12 15:32:41 UTC
+-spec contains_nearby_duplicate(Nums :: [integer()], K :: integer()) -> boolean().
+contains_nearby_duplicate(Nums, K) ->
+  .

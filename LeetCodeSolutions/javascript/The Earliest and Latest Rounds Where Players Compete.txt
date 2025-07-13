@@ -1,0 +1,10 @@
+// Synced on 2025-07-12 15:55:44 UTC
+/**
+ * @param {number} n
+ * @param {number} firstPlayer
+ * @param {number} secondPlayer
+ * @return {number[]}
+ */
+var earliestAndLatest = function(n, firstPlayer, secondPlayer) {
+    
+};

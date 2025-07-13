@@ -1,0 +1,6 @@
+// Synced on 2025-07-12 15:32:41 UTC
+public class Solution {
+    public bool ContainsNearbyDuplicate(int[] nums, int k) {
+        
+    }
+}

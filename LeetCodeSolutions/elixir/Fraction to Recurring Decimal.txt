@@ -1,0 +1,7 @@
+// Synced on 2023-10-05 16:55:06 UTC
+defmodule Solution do
+  @spec fraction_to_decimal(numerator :: integer, denominator :: integer) :: String.t
+  def fraction_to_decimal(numerator, denominator) do
+    
+  end
+end

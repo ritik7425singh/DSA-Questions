@@ -1,0 +1,13 @@
+// Synced on 2025-07-12 15:55:44 UTC
+class Solution {
+
+    /**
+     * @param Integer $n
+     * @param Integer $firstPlayer
+     * @param Integer $secondPlayer
+     * @return Integer[]
+     */
+    function earliestAndLatest($n, $firstPlayer, $secondPlayer) {
+        
+    }
+}

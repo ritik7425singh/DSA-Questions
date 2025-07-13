@@ -1,0 +1,6 @@
+// Synced on 2025-07-13 09:43:09 UTC
+impl Solution {
+    pub fn process_str(s: String, k: i64) -> char {
+        
+    }
+}

@@ -1,0 +1,6 @@
+// Synced on 2025-07-12 15:01:51 UTC
+# @param {String} s
+# @return {Integer}
+def length_of_longest_substring(s)
+    
+end

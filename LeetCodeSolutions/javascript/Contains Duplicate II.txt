@@ -1,0 +1,9 @@
+// Synced on 2025-07-12 15:32:41 UTC
+/**
+ * @param {number[]} nums
+ * @param {number} k
+ * @return {boolean}
+ */
+var containsNearbyDuplicate = function(nums, k) {
+    
+};

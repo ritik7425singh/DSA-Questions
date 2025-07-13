@@ -1,0 +1,4 @@
+// Synced on 2023-10-03 13:52:06 UTC
+(define/contract (count-pairs nums target)
+  (-> (listof exact-integer?) exact-integer? exact-integer?)
+  )
